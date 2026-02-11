@@ -1,8 +1,10 @@
 
 # Hi there, I'm Bianca!<br/>
-💻 Computer Engineer sharing about my projects and learnings in AI <br/>
-🎓 Master's degree in [Computer Engineering - Artificial Intelligence](https://corsi.unige.it/corsi/11160) at the University of Genova, Italy <br/>
-🎓 Bachelor's degree in [Computer Engineering](https://corsi.unige.it/corsi/8719) at the University of Genova, Italy <br/>
+✨ Computer Engineer sharing about my projects and learnings in AI <br/>
+🔬 Research Fellow at the [MaLGa – Machine Learning Genoa Center](https://malga.unige.it/), University of Genova, Italy <br/>
+⏳ Advanced Master in [Machine Learning and Big Data in Medical Research](https://uel.unipd.it/master-e-corsi/ml-machine-learning-e-big-data-nella-medicina-di-precisione-e-nella-ricerca-biomedica/), University of Padova, Italy <br/>
+🎓 Master's degree in [Computer Engineering - Artificial Intelligence](https://corsi.unige.it/corsi/11160), University of Genova, Italy <br/>
+🎓 Bachelor's degree in [Computer Engineering](https://corsi.unige.it/corsi/8719), University of Genova, Italy <br/>
 
 ## My contacts:
 - Linkedin: [Bianca Perasso](https://www.linkedin.com/in/bianca-perasso-066455234/) <br/>
